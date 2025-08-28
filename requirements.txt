@@ -1,0 +1,4 @@
+pyspark==3.5.1
+notebook
+jupyter
+# Add other dependencies as needed, e.g. pandas, numpy, etc.
